@@ -1,0 +1,74 @@
+body{
+    background-color: gray;
+    padding-left: 800px;
+    padding-top: 30px;
+}
+
+.vit{
+  height: 880px;
+  width: 300px;
+  background-color: white;
+  padding-top: 5px;
+
+}
+
+.röd, .gul, .grön{
+    margin: auto;
+}
+
+.röd {
+    height: 200px;
+    width:200px;
+    background-color: rgb(246, 143, 143);
+    border-style: solid;
+    border-color: darkred;
+    border-width: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.röd-inner{
+    height:100px;
+    width:200px;
+    background-color: red;
+
+}
+
+.gul {
+    height: 100px;
+    width:100px;
+    background-color: yellow;
+    border-style: solid;
+    border-color: darkgoldenrod;
+    border-width: 40px;
+    padding-top: 100px;
+    padding-left: 100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+
+.gul-inner{
+    height:100px;
+    width:100px;
+    background-color: rgb(255, 255, 135);
+}
+
+.grön {
+    height: 100px;
+    width:200px;
+    background-color: rgb(0, 255, 0);
+    border-style: solid;
+    border-color: darkgreen;
+    border-width: 40px;
+    padding-top: 100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+
+.grön-inner{
+    height:100px;
+    width:100px;
+    background-color: rgb(145, 252, 145);
+}
